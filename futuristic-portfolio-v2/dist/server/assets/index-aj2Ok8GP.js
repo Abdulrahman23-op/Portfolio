@@ -1,4 +1,4 @@
-import { r as reactExports, T as jsxRuntimeExports, S as React } from "./worker-entry-BFQDEO2Y.js";
+import { r as reactExports, T as jsxRuntimeExports, S as React } from "./worker-entry-DKuAUi_W.js";
 import "node:events";
 import "node:async_hooks";
 import "node:stream/web";
@@ -8120,7 +8120,7 @@ const projects = [
     image: projTomato,
     link: "https://drive.google.com/drive/folders/10XA27qs9hPigOsRzUZaQTOIkM4MypG7r?usp=sharing",
     titleEn: "AI Tomato Freshness Detection",
-    titleAr: "نظام التحقق من صلاحية الطماطم بالذكاء الاصطناعي",
+    titleAr: "نظام التحقق من صلاحية الطماطم لنماذج YOLO 8 و YOLO 11 باستخدام الرؤيا الحاسوبية",
     descEn: "I-Powered Tomato Freshness Assessment: YOLOv8 vs. YOLOv11 Performance Enhancement.",
     descAr: "  تقييم نضج الطماطم باستخدام YOLO 8  و  YOLO 11 بعد التحسين ."
   },
@@ -8144,7 +8144,7 @@ const projects = [
   }
 ];
 const certificates = [
-  { en: "Google Data Analytics Professional Certificate", ar: "شهادة تحليل البيانات الاحترافية من Google", issuer: "Google", logo: "/logos/google.webp", link: "https://drive.google.com/file/d/1YP27g3bX4hoHkR2eqVSPqFtFEgkoaUGP/view?usp=sharing" },
+  { en: "Google Data Analytics Professional Certificate", ar: "شهادة تحليل البيانات الاحترافية من قوقل", issuer: "Google", logo: "/logos/google.webp", link: "https://drive.google.com/file/d/1YP27g3bX4hoHkR2eqVSPqFtFEgkoaUGP/view?usp=sharing" },
   { en: "AI Concepts and Advanced Applications", ar: "مفاهيم الذكاء الاصطناعي والتطبيقات المتقدمة", issuer: "SDAIA", logo: "/logos/sdaia.jpg", link: "https://drive.google.com/file/d/117T4kkarESmktjqa2srJNliDWmj8IGMY/view?usp=sharing" },
   { en: "Unsupervised Learning, Recommenders, Reinforcement Learning", ar: "التعلم غير الموجه والأنظمة الموصية والتعلم المعزز", issuer: "DeepLearning.AI & Stanford", logo: "/logos/deeplearning.png", link: "https://drive.google.com/file/d/1GiSwSpxbTEyJXM0nACsqhSEhYE3c1ggT/view?usp=sharing" },
   { en: "Fundamentals of Artificial Intelligence", ar: "أساسيات الذكاء الاصطناعي", issuer: "SDAIA", logo: "/logos/sdaia.jpg", link: "https://drive.google.com/file/d/1-tKaa5jsWMyDe9osTl1j7AkA0OPl8srH/view?usp=sharing" },
@@ -8158,7 +8158,8 @@ const certificates = [
   { en: "Google Project Management Professional Certificate", ar: "شهادة إدارة المشاريع الاحترافية من قوقل", issuer: "Google", logo: "/logos/google.webp", link: "https://drive.google.com/file/d/1Eu4a2W02zipCSG9yqQWJaCseYG_zmioG/view?usp=sharing" },
   { en: "Machine Learning with Python", ar: "تعلم الآلة باستخدام بايثون", issuer: "IBM", logo: "/logos/ibm.jpg", link: "https://drive.google.com/file/d/1ZiGQyhUACLGDhurl6bxZUtBzPPWW3VQk/view?usp=sharing" },
   { en: "IBM Applied DevOps Engineering", ar: " هندسة العمليات والتطوير التطبيقية من آي بي إم ", issuer: "IBM", logo: "/logos/ibm.jpg", link: "https://drive.google.com/drive/folders/1NfJH9cKsqFykbA3cXjcXqCrp43hEfk2-?usp=sharing" },
-  { en: "REST API Design, Development & Management (C#)", ar: "تصميم وتطوير وإدارة REST API (C#)", issuer: "The Knowledge Academy", logo: "/logos/the-knowledge-academy.jpg", link: "https://drive.google.com/file/d/1sAyLVzx_qUn1EoYl9L28rVOajX24HbaW/view?usp=sharing" }
+  { en: "REST API Design, Development & Management (C#)", ar: "تصميم وتطوير وإدارة REST API (C#)", issuer: "The Knowledge Academy", logo: "/logos/the-knowledge-academy.jpg", link: "https://drive.google.com/file/d/1sAyLVzx_qUn1EoYl9L28rVOajX24HbaW/view?usp=sharing" },
+  { en: "#Building .NET Console Applications in C⁠", ar: "#بناء تطبيقات .NET Console بلغة C", issuer: "The Knowledge Academy", logo: "/logos/the-knowledge-academy.jpg", link: "https://drive.google.com/file/d/1cU0MF_NPPzbwhNPxbif-0n6URYLrzy-l/view?usp=sharing" }
 ];
 const awards = [
   {

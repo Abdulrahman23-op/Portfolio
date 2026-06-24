@@ -9,8 +9,8 @@
     "file": "assets/styles-ClOcZ9wK.css",
     "src": "C:/Users/User/Desktop/Portfolio/Lovable/Portfolio/futuristic-portfolio-v2/src/styles.css"
   },
-  "_worker-entry-BFQDEO2Y.js": {
-    "file": "assets/worker-entry-BFQDEO2Y.js",
+  "_worker-entry-DKuAUi_W.js": {
+    "file": "assets/worker-entry-DKuAUi_W.js",
     "name": "worker-entry",
     "dynamicImports": [
       "tanstack-start-manifest:v",
@@ -86,12 +86,12 @@
     "src": "src/assets/proj-yolo.jpg"
   },
   "src/router.tsx": {
-    "file": "assets/router-CJa4_PH4.js",
+    "file": "assets/router-B6v382tP.js",
     "name": "router",
     "src": "src/router.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_worker-entry-BFQDEO2Y.js"
+      "_worker-entry-DKuAUi_W.js"
     ],
     "dynamicImports": [
       "src/routes/index.tsx?tsr-split=component"
@@ -101,12 +101,12 @@
     ]
   },
   "src/routes/index.tsx?tsr-split=component": {
-    "file": "assets/index-cTYFOoES.js",
+    "file": "assets/index-aj2Ok8GP.js",
     "name": "index",
     "src": "src/routes/index.tsx?tsr-split=component",
     "isDynamicEntry": true,
     "imports": [
-      "_worker-entry-BFQDEO2Y.js"
+      "_worker-entry-DKuAUi_W.js"
     ],
     "assets": [
       "assets/profile-D4RrViwT.jpg",
@@ -124,7 +124,7 @@
     ]
   },
   "tanstack-start-manifest:v": {
-    "file": "assets/_tanstack-start-manifest_v-BWCXTw1g.js",
+    "file": "assets/_tanstack-start-manifest_v-u2nSQVfw.js",
     "name": "_tanstack-start-manifest_v",
     "src": "tanstack-start-manifest:v",
     "isDynamicEntry": true
@@ -135,7 +135,7 @@
     "src": "virtual:cloudflare/worker-entry",
     "isEntry": true,
     "imports": [
-      "_worker-entry-BFQDEO2Y.js"
+      "_worker-entry-DKuAUi_W.js"
     ]
   }
 }
