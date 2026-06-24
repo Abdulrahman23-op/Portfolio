@@ -7,6 +7,8 @@
 import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 
 export default defineConfig({
+  // @ts-expect-error: 'nitro' is required by the Lovable plugin at runtime but missing in its type definitions
+  nitro: true,
   vite: {
     publicDir: "public",
   },
